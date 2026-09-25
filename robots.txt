@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.afcvhlb.cn/sitemap.xml
